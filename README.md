@@ -1,3 +1,3 @@
-# gentoo-dwm-setup
+## Dotfiles
 
 Still WIP
