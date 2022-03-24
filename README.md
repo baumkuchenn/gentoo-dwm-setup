@@ -1,1 +1,3 @@
-# gentoo-dwm-setup-WIP-
+# gentoo-dwm-setup
+
+Still WIP
